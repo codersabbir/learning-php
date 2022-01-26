@@ -24,7 +24,7 @@ $foods = [
 
 
     foreach ($foods as $food => $value){ 
-        echo "I favourite ".$food." are ".$value."\n";
+        echo "My favourite ".$food." are ".$value."\n";
         echo "\n";
     } 
    
